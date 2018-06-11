@@ -1,10 +1,3 @@
-"""
-CS101
-HW9
-Lillie Atkins
-Lab X
-November 27, 2017
-"""
 
 import string
 
